@@ -1,4 +1,4 @@
-# SQLBootcampProjects
+# SQLBootcampProjects - From Colt Steele Course SQL BootCamp from Zero to Hero
 
 # Crud Challenge - Clothing Inventory Management System
 
