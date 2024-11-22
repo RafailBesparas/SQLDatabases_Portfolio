@@ -9,3 +9,9 @@ This project is a Clothing Inventory Management System designed to maintain and 
 2. Read: Retrieve data, such as viewing all T-shirts or checking items not worn in a long time.
 3. Update: Modify attributes like size or last worn date for specific items.
 4 .Delete: Remove items based on specific criteria, such as T-shirts not worn for over 200 days.
+
+# Bookstore Inventory Management System
+# Overview:
+The Bookstore Inventory Management System is a relational database project designed to streamline the storage, retrieval, and management of book data for libraries, bookstores, or personal collections. It provides a robust structure for organizing key details about books, including titles, authors, publication years, and stock levels.
+
+
